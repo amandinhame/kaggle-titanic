@@ -31,7 +31,6 @@ The evaluation is made by using the accuracy metric, which indicates the percent
 
 ## Steps
 
-* Exploratory data analysis
-* Data preparation
-* Modeling
-* Evaluating
+* [Exploratory data analysis](https://github.com/amandinhame/kaggle-titanic/blob/master/exploratory-data-analysis.ipynb)
+* [Data preparation](https://github.com/amandinhame/kaggle-titanic/blob/master/data-preparation.ipynb)
+* [Modeling and Validation](https://github.com/amandinhame/kaggle-titanic/blob/master/modeling-evaluation.ipynb)
